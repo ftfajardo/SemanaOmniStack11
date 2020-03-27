@@ -62,6 +62,7 @@
 }
 
 .profile-container ul li button{
+    background: transparent;
     position: absolute;
     right: 24px;
     top: 24px;
